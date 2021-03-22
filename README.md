@@ -14,11 +14,13 @@
 
 ### Description
 
+#### [Demo Link](https://todo-by-us.netlify.app/)
+
 This is a simple Todo Application. User can create, read, delete and update the notes.
 
 All the notes will be saved in local storage of browser.
 
-This is a part of my assignments in Newton School
+This is a part of my assignments in [Newton School](https://www.newtonschool.co/)
 
 ***
 
