@@ -2,10 +2,12 @@
 
 ## A Simple Note App
 
+<p align="center">
 <img src="https://img.shields.io/badge/made by-udbhavpushkar-green">
 <img src="https://img.shields.io/badge/react-17.0.1-blue">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/PRs-welcome-yellow">
+</p>
 
 [Contributions are Welcome](https://github.com/udbhavpushkar/your-notes)
 ---
